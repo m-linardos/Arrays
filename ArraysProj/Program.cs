@@ -3,11 +3,11 @@
 namespace ArraysProj {
     class Program {
         static void Main(string[] args) {
-            int[] frames = new int[30];         // name should be plural  
+            int[] frames = new int[30];         // thr name should be plural  
             frames[0] = 10;                                     //[INDEX]
             frames[1] = 7;
-            frames[2] = 5;                      // loop through the collection until bool expresn is true
-            frames[3] = 10;                     
+            frames[2] = 5;                      // loop through the collection until bool expresn is true  
+            frames[3] = 10;                    
             frames[4] = 9;
             frames[5] = 8;
             frames[6] = 10;
